@@ -1,0 +1,21 @@
+html {
+    padding: 20px;
+    width: 984px;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+h1 {
+    font-size: 26px;
+}
+h2 {
+    font-size: 22px;
+    margin-top: 50px;
+}
+h3 {
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
